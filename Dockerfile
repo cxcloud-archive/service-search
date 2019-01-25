@@ -8,7 +8,7 @@ COPY src/ /data/cxcloud-service/src
 COPY config/ /data/cxcloud-service/config
 COPY *.json /data/cxcloud-service/
 
-RUN npm install --silent
+RUN npm install ci
 RUN npm run build
 
 EXPOSE 4003

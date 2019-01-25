@@ -1,0 +1,7 @@
+{
+  "domain": "demo.cxcloud.com",
+  "algolia": {
+    "applicationId": "T5RW57PM97",
+    "apiKey": "f989ede858693d2f326d3fb13c00ec6c"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "service-search",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A CXCloud Microservice",
   "main": "dist/index.js",
   "scripts": {
@@ -49,7 +49,7 @@
     "@types/node": "^8.0.45",
     "husky": "^0.14.3",
     "lint-staged": "^4.3.0",
-    "nodemon": "^1.17.1",
+    "nodemon": "^1.18.9",
     "prettier": "^1.7.4",
     "ts-node": "^3.3.0",
     "typescript": "^2.6.2",
